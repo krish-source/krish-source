@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krish-source
 - 👀 I’m interested in ...learing data analysis & automation
-- 🌱 I’m currently learning ...data analysis &  machine learning
-- 💞️ I’m looking to collaborate on ...analysis projects
+- 🌱 I’m currently learning ...data analysis &  machine learning, automation
+- 💞️ I’m looking to collaborate on ...analysis projects & auotmation projects
 - 📫 How to reach me ...contact me on linkedin  : www.linkedin.com/in/krish-s-networking
 
 <!---
