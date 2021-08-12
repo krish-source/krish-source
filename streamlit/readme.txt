@@ -1,8 +1,1 @@
-Requirments:
-
-pandas_datareader 
-yfinance
-streamlit
-numpy
-seaborn
-matplotlib
+My First streamlit app
