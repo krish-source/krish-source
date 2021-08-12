@@ -23,6 +23,5 @@ fig, ax = plt.subplots(figsize=(12, 6))
 sns.lineplot(data=data_google, x="Date", y="Close")
 ax.set_title(" Google(Ticker:GOOG): Stock Prices Closing - 2021-01 to 2021-08 ")
 st.pyplot(fig)
-st.set_option('deprecation.showPyplotGlobalUse', False)
 
 
