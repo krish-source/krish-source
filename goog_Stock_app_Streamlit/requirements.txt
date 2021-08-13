@@ -1,0 +1,12 @@
+pandas-datareader==0.10.0
+matplotlib==3.4.2
+pandas==1.2.5
+yfinance==0.1.63
+numpy==1.19.5
+seaborn==0.11.1
+beautifulsoup4==4.9.3
+requests==2.25.1
+nltk==3.6.2
+Pillow==8.2.0
+pandas==1.2.5
+streamlit==0.83.0
