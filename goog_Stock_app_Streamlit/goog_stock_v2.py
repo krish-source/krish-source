@@ -20,7 +20,7 @@ st.title("Google stock report")
 st.header("Last 8 months to till date")
 
 
-data_google = pdr.get_data_yahoo("GOOG", start="2021-01-01", end="2021-08-13")
+data_google = pdr.get_data_yahoo("GOOG", start="2021-01-01", end="2021-08-21")
 
 st.dataframe(data_google)
 
