@@ -10,7 +10,7 @@ Import the us stocks dataset (**us_stocks.csv**) and select the Adjusted Close (
 
 **Visualize** the Adjusted Close of the six stocks **over time**
 
-b fv 2edsx
+
 
 ------
 
