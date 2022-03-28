@@ -33,7 +33,7 @@ Sales analysis insights dashboard is built to provide quantifiable insights to s
 - Each Sales team is responsible for each regions sales
 - Admin would have total access 
 
-### Methodology
+### Approach & Methodology
 
 | Phase                              | Action                                                       |
 | ---------------------------------- | ------------------------------------------------------------ |
